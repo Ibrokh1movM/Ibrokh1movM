@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [[Dream Team Logistics](https://dlogistics.uz/)](https://dlogistics.uz/)
+- 🔭 I’m currently working on [[Dream Team Logistics](https:www.dreamteamlogistic.com)](https:www.dreamteamlogistic.com)
 
 - 🌱 I’m currently learning **Django**
 
@@ -18,9 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muzaffar ibrohimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffar ibrohimov" height="30" width="40" /></a>
-<a href="https://instagram.com/m__mike__i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m__mike__i" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muzaffar-ibrohimov" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffar ibrohimov" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/c" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m__mike__i" height="30" width="40" />
+  </a>
+  <a href="https://t.me/m_mike_i" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

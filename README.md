@@ -25,8 +25,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m__mike__i" height="30" width="40" />
   </a>
   <a href="https://t.me/m_mike_i" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
-  </a>
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="telegram" height="30" width="40" />
+</a>
 </p>
 
 
